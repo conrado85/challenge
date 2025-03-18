@@ -17,9 +17,9 @@ Este proyecto es una aplicación web simple y práctica para realizar un sorteo 
 
 ## 💡 Experiencia de Desarrollo
 
-Crear este **sorteador de Amigo Secreto** fue un proyecto desafiante y enriquecedor. Uno de los principales retos fue implementar la lógica del sorteo de manera eficiente, asegurando una experiencia fluida para el usuario.
+Desarrollar este sorteador de **Amigo Secreto** fue una experiencia muy enriquecedora. Uno de los mayores desafíos fue diseñar una lógica de sorteo eficiente y garantizar una interfaz interactiva y fácil de usar.
 
-A lo largo del desarrollo, mejoré mis habilidades en **JavaScript**, especialmente en la manipulación de **arrays** y eventos del DOM. Fue una gran oportunidad para seguir aprendiendo y explorando nuevas posibilidades en la programación.
+Durante el proceso, profundicé mis conocimientos en **JavaScript**, especialmente en la manipulación de **arrays**, eventos del **DOM** y control de flujo. Este proyecto me permitió consolidar habilidades y reforzar mi interés en el **desarrollo web**.
 
 ---
 
